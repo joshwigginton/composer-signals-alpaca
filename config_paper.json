@@ -1,0 +1,10 @@
+{
+  "ALPACA_API_KEY": "",
+  "ALPACA_SECRET_KEY": "",
+  "ALPACA_BASE_URL": "https://paper-api.alpaca.markets",
+  "symphony_to_trade": "BEST20d",
+  "symphony_url": "drive.google.com",  
+  "cash_weight": "1.15",
+  "timeout": "30",
+  "service_account_file": "alpaca-trading-python-123aBcD456.json"
+}

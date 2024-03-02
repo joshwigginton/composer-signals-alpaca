@@ -1,0 +1,84 @@
+2024-02-13 12:35:29,429 - INFO - Alpaca API connected successfully.
+2024-02-13 12:35:30,571 - INFO - New Portfolio Allocations: {'AMD': 0.12244897959183673, 'BIL': 0.12244897959183673, 'BITI': 0.061224489795918366, 'FNGU': 0.12244897959183673, 'HUT': 0.030612244897959183, 'MARA': 0.16326530612244897, 'TQQQ': 0.3163265306122449, 'WEBL': 0.061224489795918366}
+2024-02-13 12:35:31,052 - INFO - Current Portfolio {}
+2024-02-13 12:35:31,101 - INFO - Target Investment Amount 116415.328
+2024-02-13 12:35:32,416 - INFO - Attempting to buy 83.62629427695047 shares of AMD
+2024-02-13 12:35:35,543 - INFO - Successfully executed buy order for AMD: 83.62629427695047 shares.
+2024-02-13 12:35:35,543 - INFO - Attempting to buy 155.7150922764649 shares of BIL
+2024-02-13 12:35:38,671 - INFO - Successfully executed buy order for BIL: 155.7150922764649 shares.
+2024-02-13 12:35:38,671 - INFO - Attempting to buy 636.9498714231 shares of BITI
+2024-02-13 12:35:41,793 - INFO - Successfully executed buy order for BITI: 636.9498714231 shares.
+2024-02-13 12:35:41,793 - INFO - Attempting to buy 46.25523435151204 shares of FNGU
+2024-02-13 12:35:44,918 - INFO - Successfully executed buy order for FNGU: 46.25523435151204 shares.
+2024-02-13 12:35:44,918 - INFO - Attempting to buy 418.2787007760851 shares of HUT
+2024-02-13 12:35:48,064 - INFO - Successfully executed buy order for HUT: 418.2787007760851 shares.
+2024-02-13 12:35:48,064 - INFO - Attempting to buy 755.7289925751612 shares of MARA
+2024-02-13 12:35:51,189 - INFO - Successfully executed buy order for MARA: 755.7289925751612 shares.
+2024-02-13 12:35:51,189 - INFO - Attempting to buy 644.2487196698133 shares of TQQQ
+2024-02-13 12:35:54,311 - INFO - Successfully executed buy order for TQQQ: 644.2487196698133 shares.
+2024-02-13 12:35:54,311 - INFO - Attempting to buy 389.58562783407973 shares of WEBL
+2024-02-13 12:35:57,435 - INFO - Successfully executed buy order for WEBL: 389.58562783407973 shares.
+2024-02-13 12:35:57,435 - INFO - Rebalancing complete.
+2024-02-13 14:36:08,945 - INFO - Alpaca API connected successfully.
+2024-02-13 14:36:09,955 - INFO - New Portfolio Allocations: {'AMD': 0.12244897959183673, 'BIL': 0.12244897959183673, 'BITI': 0.061224489795918366, 'FNGU': 0.12244897959183673, 'HUT': 0.030612244897959183, 'MARA': 0.16326530612244897, 'TQQQ': 0.3163265306122449, 'WEBL': 0.061224489795918366}
+2024-02-13 14:36:10,320 - INFO - Current Portfolio {'AMD': {'qty': 83.626294276, 'market_value': 14294.24248059668}, 'BIL': {'qty': 155.715092276, 'market_value': 14254.15954694504}, 'BITI': {'qty': 636.949871423, 'market_value': 7022.372332438575}, 'FNGU': {'qty': 46.255234351, 'market_value': 14240.59899964237}, 'HUT': {'qty': 418.278700776, 'market_value': 3605.771540039508}, 'MARA': {'qty': 755.728992575, 'market_value': 19512.9225882865}, 'TQQQ': {'qty': 644.248719669, 'market_value': 36307.9895192578}, 'WEBL': {'qty': 389.585627834, 'market_value': 6993.0620196203}}
+2024-02-13 14:36:10,364 - INFO - Target Investment Amount 116063.20949999998
+2024-02-13 14:36:11,488 - INFO - Attempting to sell 0.48202180927604765 shares of AMD
+2024-02-13 14:36:11,572 - INFO - Successfully executed sell order for AMD: 0.48202180927604765 shares.
+2024-02-13 14:36:11,572 - INFO - Attempting to sell 0.4624574059691042 shares of BIL
+2024-02-13 14:36:11,663 - INFO - Successfully executed sell order for BIL: 0.4624574059691042 shares.
+2024-02-13 14:36:11,663 - INFO - Attempting to sell 0.09458325488094399 shares of FNGU
+2024-02-13 14:36:11,746 - INFO - Successfully executed sell order for FNGU: 0.09458325488094399 shares.
+2024-02-13 14:36:11,746 - INFO - Attempting to sell 6.2063627711358365 shares of HUT
+2024-02-13 14:36:14,889 - INFO - Successfully executed sell order for HUT: 6.2063627711358365 shares.
+2024-02-13 14:36:14,890 - INFO - Attempting to sell 21.8199365214812 shares of MARA
+2024-02-13 14:36:18,017 - INFO - Successfully executed sell order for MARA: 21.8199365214812 shares.
+2024-02-13 14:36:18,017 - INFO - Attempting to buy 7.560041020426226 shares of BITI
+2024-02-13 14:36:21,193 - INFO - Successfully executed buy order for BITI: 7.560041020426226 shares.
+2024-02-13 14:36:21,193 - INFO - Attempting to buy 7.201612377561121 shares of TQQQ
+2024-02-13 14:36:24,321 - INFO - Successfully executed buy order for TQQQ: 7.201612377561121 shares.
+2024-02-13 14:36:24,322 - INFO - Attempting to buy 6.241635292808879 shares of WEBL
+2024-02-13 14:36:27,447 - INFO - Successfully executed buy order for WEBL: 6.241635292808879 shares.
+2024-02-13 14:36:27,447 - INFO - Rebalancing complete.
+2024-02-13 14:48:36,616 - INFO - Alpaca API connected successfully.
+2024-02-13 14:48:37,685 - INFO - New Portfolio Allocations: {}
+2024-02-13 14:48:38,009 - INFO - Current Portfolio {'AMD': {'qty': 83.144272467, 'market_value': 14188.57009649355}, 'BIL': {'qty': 155.252634871, 'market_value': 14212.105650834108}, 'BITI': {'qty': 644.509912443, 'market_value': 7121.83453249515}, 'FNGU': {'qty': 46.160651097, 'market_value': 14091.101907302633}, 'HUT': {'qty': 412.072338005, 'market_value': 3539.7425906967505}, 'MARA': {'qty': 733.909056054, 'market_value': 18755.04592745997}, 'TQQQ': {'qty': 651.450332046, 'market_value': 36539.84912446014}, 'WEBL': {'qty': 395.827263126, 'market_value': 7049.68355627406}}
+2024-02-13 14:48:38,054 - INFO - Target Investment Amount 115414.42549999998
+2024-02-13 14:48:38,094 - INFO - Attempting to sell 644.509912443 shares of BITI
+2024-02-13 14:48:41,225 - INFO - Successfully executed sell order for BITI: 644.509912443 shares.
+2024-02-13 14:48:41,226 - INFO - Attempting to sell 733.909056054 shares of MARA
+2024-02-13 14:48:44,357 - INFO - Successfully executed sell order for MARA: 733.909056054 shares.
+2024-02-13 14:48:44,358 - INFO - Attempting to sell 412.072338005 shares of HUT
+2024-02-13 14:48:47,486 - INFO - Successfully executed sell order for HUT: 412.072338005 shares.
+2024-02-13 14:48:47,486 - INFO - Attempting to sell 46.160651097 shares of FNGU
+2024-02-13 14:48:50,609 - INFO - Successfully executed sell order for FNGU: 46.160651097 shares.
+2024-02-13 14:48:50,609 - INFO - Attempting to sell 83.144272467 shares of AMD
+2024-02-13 14:48:53,728 - INFO - Successfully executed sell order for AMD: 83.144272467 shares.
+2024-02-13 14:48:53,728 - INFO - Attempting to sell 395.827263126 shares of WEBL
+2024-02-13 14:48:56,855 - INFO - Successfully executed sell order for WEBL: 395.827263126 shares.
+2024-02-13 14:48:56,855 - INFO - Attempting to sell 155.252634871 shares of BIL
+2024-02-13 14:48:59,980 - INFO - Successfully executed sell order for BIL: 155.252634871 shares.
+2024-02-13 14:48:59,980 - INFO - Attempting to sell 651.450332046 shares of TQQQ
+2024-02-13 14:49:03,099 - INFO - Successfully executed sell order for TQQQ: 651.450332046 shares.
+2024-02-13 14:49:03,099 - INFO - Rebalancing complete.
+2024-02-13 14:49:20,832 - INFO - Alpaca API connected successfully.
+2024-02-13 14:49:21,865 - INFO - New Portfolio Allocations: {'AMD': 0.12244897959183673, 'BIL': 0.12244897959183673, 'BITI': 0.061224489795918366, 'FNGU': 0.12244897959183673, 'HUT': 0.030612244897959183, 'MARA': 0.16326530612244897, 'TQQQ': 0.3163265306122449, 'WEBL': 0.061224489795918366}
+2024-02-13 14:49:22,151 - INFO - Current Portfolio {}
+2024-02-13 14:49:22,196 - INFO - Target Investment Amount 115360.617
+2024-02-13 14:49:23,184 - INFO - Attempting to buy 82.7763834558142 shares of AMD
+2024-02-13 14:49:26,313 - INFO - Successfully executed buy order for AMD: 82.7763834558142 shares.
+2024-02-13 14:49:26,313 - INFO - Attempting to buy 154.30432941979018 shares of BIL
+2024-02-13 14:49:29,441 - INFO - Successfully executed buy order for BIL: 154.30432941979018 shares.
+2024-02-13 14:49:29,441 - INFO - Attempting to buy 640.3349880659426 shares of BITI
+2024-02-13 14:49:32,571 - INFO - Successfully executed buy order for BITI: 640.3349880659426 shares.
+2024-02-13 14:49:32,571 - INFO - Attempting to buy 46.42746984185862 shares of FNGU
+2024-02-13 14:49:35,703 - INFO - Successfully executed buy order for FNGU: 46.42746984185862 shares.
+2024-02-13 14:49:35,703 - INFO - Attempting to buy 411.5906129584701 shares of HUT
+2024-02-13 14:49:38,840 - INFO - Successfully executed buy order for HUT: 411.5906129584701 shares.
+2024-02-13 14:49:38,840 - INFO - Attempting to buy 736.8695793810481 shares of MARA
+2024-02-13 14:49:41,981 - INFO - Successfully executed buy order for MARA: 736.8695793810481 shares.
+2024-02-13 14:49:41,981 - INFO - Attempting to buy 650.7645785982694 shares of TQQQ
+2024-02-13 14:49:45,109 - INFO - Successfully executed buy order for TQQQ: 650.7645785982694 shares.
+2024-02-13 14:49:45,109 - INFO - Attempting to buy 393.1475045013831 shares of WEBL
+2024-02-13 14:49:48,238 - INFO - Successfully executed buy order for WEBL: 393.1475045013831 shares.
+2024-02-13 14:49:48,238 - INFO - Rebalancing complete.

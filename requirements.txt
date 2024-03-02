@@ -1,0 +1,7 @@
+pandas
+requests
+alpaca_trade_api
+google-auth
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
